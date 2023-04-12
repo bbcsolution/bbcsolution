@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @S.N Bhawani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm S.N Bhawani, a Software Developer who is passionate about cross-platform development and open source.
 
-<!---
-bbcsolution/bbcsolution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Technologies
+Mobile application development using Xamarin/.NET for Mobile, Java, Kotlin
+Desktop application development using UWP
+Front-end development using React Js
+Backend development using .NET, Node.js, PHP
+Databases: MySQL, SQLite
+BaaS: Firebase
