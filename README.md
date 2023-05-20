@@ -6,7 +6,7 @@ Mobile application development using Xamarin/.NET for Mobile, Java, Kotlin
 
 Desktop application development using UWP
 
-Front-end development using React Js
+Front-end development using Django.
 
 Backend development using .NET, Node.js, PHP
 
